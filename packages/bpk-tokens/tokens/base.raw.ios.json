@@ -43,16 +43,16 @@
       "value": 40
     },
     "BORDER_RADIUS_SM": {
-      "value": 4
+      "value": 8
     },
     "BORDER_SIZE_LG": {
-      "value": 2
+      "value": 3
     },
     "BORDER_SIZE_SM": {
-      "value": 1
+      "value": 2
     },
     "BORDER_SIZE_XL": {
-      "value": 3
+      "value": 4
     },
     "CAROUSEL_INDICATOR_DOT_SIZE_BASE": {
       "value": 6
@@ -70,13 +70,13 @@
       "value": 15
     },
     "FONT_SIZE_LG": {
-      "value": 20
+      "value": 23
     },
     "FONT_SIZE_SM": {
       "value": 13
     },
     "FONT_SIZE_XL": {
-      "value": 20
+      "value": 24
     },
     "FONT_SIZE_XS": {
       "value": 11
@@ -121,7 +121,7 @@
       "value": "#3B344B"
     },
     "GRAY_900": {
-      "value": "#252033"
+      "value": "#2d2033"
     },
     "GREEN_100": {
       "value": "#cbf5e2"
@@ -320,28 +320,28 @@
     },
     "BORDER_RADIUS_SM": {
       "type": "size",
-      "value": "4",
+      "value": "8",
       "category": "radii",
       "originalValue": "{!BORDER_RADIUS_SM}",
       "name": "BORDER_RADIUS_SM"
     },
     "BORDER_SIZE_LG": {
       "type": "size",
-      "value": "2",
+      "value": "3",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_LG}",
       "name": "BORDER_SIZE_LG"
     },
     "BORDER_SIZE_SM": {
       "type": "size",
-      "value": "1",
+      "value": "2",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_SM}",
       "name": "BORDER_SIZE_SM"
     },
     "BORDER_SIZE_XL": {
       "type": "size",
-      "value": "3",
+      "value": "4",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_XL}",
       "name": "BORDER_SIZE_XL"
@@ -349,7 +349,7 @@
     "BUTTON_BORDER_WIDTH": {
       "type": "size",
       "category": "spacings",
-      "value": "2",
+      "value": "3",
       "originalValue": "{!BORDER_SIZE_LG}",
       "name": "BUTTON_BORDER_WIDTH"
     },
@@ -538,7 +538,7 @@
     "COLOR_GRAY_900": {
       "type": "color",
       "category": "colors",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "originalValue": "{!GRAY_900}",
       "name": "COLOR_GRAY_900"
     },
@@ -851,7 +851,7 @@
       "name": "FONT_SIZE_BASE"
     },
     "FONT_SIZE_LG": {
-      "value": "20",
+      "value": "23",
       "type": "font-size",
       "category": "typesettings",
       "originalValue": "{!FONT_SIZE_LG}",
@@ -865,7 +865,7 @@
       "name": "FONT_SIZE_SM"
     },
     "FONT_SIZE_XL": {
-      "value": "20",
+      "value": "24",
       "type": "font-size",
       "category": "typesettings",
       "originalValue": "{!FONT_SIZE_XL}",
@@ -928,7 +928,7 @@
       "name": "LINE_HEIGHT_XXL"
     },
     "SHADOW_LG_COLOR": {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -963,7 +963,7 @@
       "name": "SHADOW_LG_RADIUS"
     },
     "SHADOW_SM_COLOR": {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -998,7 +998,7 @@
       "name": "SHADOW_SM_RADIUS"
     },
     "SHADOW_XL_COLOR": {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -1110,7 +1110,7 @@
       "name": "TEXT_EMPHASIZED_FONT_WEIGHT"
     },
     "TEXT_LG_FONT_SIZE": {
-      "value": "20",
+      "value": "23",
       "type": "font-size",
       "category": "font-sizes",
       "originalValue": "{!FONT_SIZE_LG}",
@@ -1152,7 +1152,7 @@
       "originalValue": "{!LINE_HEIGHT_SM}"
     },
     "TEXT_XL_FONT_SIZE": {
-      "value": "20",
+      "value": "24",
       "type": "font-size",
       "category": "font-sizes",
       "originalValue": "{!FONT_SIZE_XL}",
@@ -1216,7 +1216,7 @@
     },
     "TOUCHABLE_OVERLAY_COLOR": {
       "category": "touchables",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "originalValue": "{!GRAY_900}",
       "name": "TOUCHABLE_OVERLAY_COLOR"
@@ -1230,7 +1230,7 @@
     },
     "UNDERLAY_COLOR": {
       "category": "touchables",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "name": "UNDERLAY_COLOR",
       "originalValue": "{!GRAY_900}"

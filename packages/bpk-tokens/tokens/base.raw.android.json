@@ -136,7 +136,7 @@
       "value": "#3B344B"
     },
     "GRAY_900": {
-      "value": "#252033"
+      "value": "#2d2033"
     },
     "GREEN_100": {
       "value": "#cbf5e2"
@@ -553,7 +553,7 @@
     "COLOR_GRAY_900": {
       "type": "color",
       "category": "colors",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "originalValue": "{!GRAY_900}",
       "name": "COLOR_GRAY_900"
     },

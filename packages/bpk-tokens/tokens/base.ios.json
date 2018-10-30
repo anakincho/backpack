@@ -30,28 +30,28 @@
     },
     {
       "type": "size",
-      "value": "4",
+      "value": "8",
       "category": "radii",
       "originalValue": "{!BORDER_RADIUS_SM}",
       "name": "borderRadiusSm"
     },
     {
       "type": "size",
-      "value": "2",
+      "value": "3",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_LG}",
       "name": "borderSizeLg"
     },
     {
       "type": "size",
-      "value": "1",
+      "value": "2",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_SM}",
       "name": "borderSizeSm"
     },
     {
       "type": "size",
-      "value": "3",
+      "value": "4",
       "category": "borders",
       "originalValue": "{!BORDER_SIZE_XL}",
       "name": "borderSizeXl"
@@ -59,7 +59,7 @@
     {
       "type": "size",
       "category": "spacings",
-      "value": "2",
+      "value": "3",
       "originalValue": "{!BORDER_SIZE_LG}",
       "name": "buttonBorderWidth"
     },
@@ -248,7 +248,7 @@
     {
       "type": "color",
       "category": "colors",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "originalValue": "{!GRAY_900}",
       "name": "colorGray900"
     },
@@ -561,7 +561,7 @@
       "name": "fontSizeBase"
     },
     {
-      "value": "20",
+      "value": "23",
       "type": "font-size",
       "category": "typesettings",
       "originalValue": "{!FONT_SIZE_LG}",
@@ -575,7 +575,7 @@
       "name": "fontSizeSm"
     },
     {
-      "value": "20",
+      "value": "24",
       "type": "font-size",
       "category": "typesettings",
       "originalValue": "{!FONT_SIZE_XL}",
@@ -638,7 +638,7 @@
       "name": "lineHeightXxl"
     },
     {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -673,7 +673,7 @@
       "name": "shadowLgRadius"
     },
     {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -708,7 +708,7 @@
       "name": "shadowSmRadius"
     },
     {
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "category": "box-shadows",
       "originalValue": "{!GRAY_900}",
@@ -820,7 +820,7 @@
       "name": "textEmphasizedFontWeight"
     },
     {
-      "value": "20",
+      "value": "23",
       "type": "font-size",
       "category": "font-sizes",
       "originalValue": "{!FONT_SIZE_LG}",
@@ -862,7 +862,7 @@
       "originalValue": "{!LINE_HEIGHT_SM}"
     },
     {
-      "value": "20",
+      "value": "24",
       "type": "font-size",
       "category": "font-sizes",
       "originalValue": "{!FONT_SIZE_XL}",
@@ -926,7 +926,7 @@
     },
     {
       "category": "touchables",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "originalValue": "{!GRAY_900}",
       "name": "touchableOverlayColor"
@@ -940,7 +940,7 @@
     },
     {
       "category": "touchables",
-      "value": "#252033ff",
+      "value": "#2d2033ff",
       "type": "color",
       "name": "underlayColor",
       "originalValue": "{!GRAY_900}"

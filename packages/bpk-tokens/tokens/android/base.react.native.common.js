@@ -54,7 +54,7 @@ module.exports = {
   colorGray600: "rgb(105, 97, 121)",
   colorGray700: "rgb(82, 76, 97)",
   colorGray800: "rgb(59, 52, 75)",
-  colorGray900: "rgb(37, 32, 51)",
+  colorGray900: "rgb(45, 32, 51)",
   colorGreen100: "rgb(203, 245, 226)",
   colorGreen200: "rgb(175, 237, 209)",
   colorGreen300: "rgb(128, 232, 185)",
